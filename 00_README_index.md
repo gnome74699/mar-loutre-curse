@@ -66,12 +66,28 @@
 - [ ] 6 accessoires identifiants Garde : bandeau rouge / foulard ivoire / chope plastique opaque / foulard violet + bâton / casquette / bandana noir + petit sac
 - [ ] 2 sacs en tissu opaque (un pour les fiches, un pour les accessoires)
 
-**Ingrédients de l'Antidote :**
-- [ ] Fer à cheval (chocolat de préférence)
-- [ ] Fiole de grenadine ("larmes de lion")
-- [ ] Médaillon "Louis"
-- [ ] Plume
-- [ ] Brin de muguet sacré (à planquer pour Fourvière, en cas de récolte ratée)
+**Les 5 Ingrédients de l'Antidote (VRAI cocktail à boire) :**
+- [ ] **Médaillon "Louis"** (médaille gravée / breloque) — *Sceau du Roi-Soleil* — étape 1 Bellecour
+- [ ] **Sirop de violette** (petit flacon) — *Larmes Parfumées du Lion* — étape 3 Terreaux
+- [ ] **Mignonnette de Chartreuse Verte** (5cl) — *Élixir Royal des Moines* — étape 4 Pradel
+- [ ] **Brin de menthe fraîche** (au frais jusqu'au jour J) — *Herbe Sacrée des Esprits* — étape 7 Saône
+- [ ] **Petite bouteille de limonade artisanale** (33cl) — *Eau Pétillante des Sources* — étape 10 Fourvière
+
+**Recette du Cocktail Antidote du Loutron :** verre rempli aux 3/4 de glace pilée + Chartreuse Verte 5cl + 2 traits de sirop de violette + médaillon trempé puis ressorti + limonade jusqu'au bord + brin de menthe fraîche en garniture. Couleur vert-violet pétillante, magnifique.
+
+**Autres éléments narratifs (pas dans le cocktail) :**
+- [ ] **Fer à cheval en chocolat** — trophée de couronnement à Bellecour, à grignoter
+- [ ] **Brin de muguet "sacré"** — offrande symbolique séparée à Fourvière, ajouté au bouquet de Yoann
+
+**Pour le cocktail (à acheter la veille) :**
+- [ ] 1 mignonnette de Chartreuse Verte (cave/spiritueux ou supermarché bien fourni — ~3-4€)
+- [ ] 1 petite bouteille sirop de violette (épicerie fine ou rayon sirops — Monin, Giffard, ou artisan)
+- [ ] 1 bouquet de menthe fraîche (à conserver au frigo)
+- [ ] 1 bouteille limonade artisanale 33cl (Lorina, Elixia, marque locale lyonnaise)
+- [ ] Sachet de glace pilée OU glaçons à piler sur place
+- [ ] 1 médaillon gravé "Louis" (brocante / mercerie / commande en ligne — médaille Saint-Louis ou breloque)
+- [ ] 9 verres en plastique transparent solide
+- [ ] Pailles métal ou bambou (9)
 
 **Sac à Dos Gourmand (à acheter la veille) :**
 - [ ] Rosette de Lyon
@@ -87,12 +103,10 @@
 - [ ] Baguettes / pain de campagne
 - [ ] Bouteille Côtes du Rhône ou Beaujolais
 
-**Glacière finale :**
-- [ ] Rhum + jus d'ananas + grenadine + jus de citron vert + Tabasco
-- [ ] Shaker (ou bouteille avec couvercle qui se ferme)
-- [ ] 9 verres en plastique solide
-- [ ] Glaçons en sac isotherme
-- [ ] Briquet (pour effet flambé optionnel)
+**Glacière finale (à transporter toute la journée) :**
+- [ ] Les 5 ingrédients du cocktail antidote (cf. liste ci-dessus)
+- [ ] Glaçons / glace pilée en sac isotherme
+- [ ] 9 verres plastique transparent solide + pailles
 - [ ] Couteaux à charcuterie + planche en bois
 - [ ] Nappe (pour le mâchon)
 - [ ] Eau (beaucoup) + essuie-tout

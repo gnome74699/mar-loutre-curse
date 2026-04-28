@@ -1,4 +1,4 @@
-# 🦦 L'Antidote du Marié-Loutre — Édition 1er Mai (v13)
+# 🦦 L'Antidote du Marié-Loutre — Édition 1er Mai (v14)
 ### Escape Game urbain pour l'EVG de Yoann Louis — Lyon, 4h, jour férié
 
 ---
@@ -225,18 +225,46 @@ Le 1er mai, on offre du muguet porte-bonheur. Les particuliers ont le droit exce
 
 **Pour les témoins :** classeur "Le Grimoire de l'Antidote" avec enveloppes scellées numérotées, carte papier de Lyon, téléphone dédié photos/vidéos batterie pleine, enceinte Bluetooth, **glacière** (cf. finale), **stock de brins de muguet bonus** (achetés la veille, planqués dans un sac, pour les récompenses du Mensonge et de la Tentation).
 
-**Les 5 ingrédients de l'Antidote** (objets symboliques planqués par les témoins, remis aux étapes 1-3-4-7-10) :
-1. **Fer à cheval** (chocolat) — étape 1, Bellecour
-2. **Fiole de "larmes de lion"** (= sirop grenadine) — étape 3, Terreaux
-3. **Médaillon Louis** (médaille gravée, pendentif) — étape 4, Opéra
-4. **Plume** (esprit du Rhône) — étape 7, quais
-5. **Brin de muguet "sacré"** récupéré à Fourvière — étape 10
+**Les 5 Ingrédients de l'Antidote** (les VRAIS composants du cocktail final, à collecter au cours de la quête) :
 
-**Pour la finale (1er mai = pas de bar, on improvise mieux) :**
-- **Glacière préparée le matin** : kit cocktail à shaker + 5 verres plastique solides + glaçons + thermos backup
-- **Cocktail "Antidote du Loutron"** : rhum + jus d'ananas + grenadine ("larmes de lion") + jus de citron vert + une goutte de Tabasco "feu de la potion"
-- Briquet pour effet "flambé" optionnel (sécurité)
+| # | Catégorie | Ingrédient | Étape collecte | Nom narratif |
+|---|---|---|---|---|
+| 1 | 🗝️ Objet | **Médaillon "Louis"** (médaille gravée, pendentif, breloque) | Étape 1 — Bellecour | *Le Sceau du Roi-Soleil* |
+| 2 | 🍯 Sirop | **Sirop de violette** (artisanal, fiole) | Étape 3 — Terreaux | *Les Larmes Parfumées du Lion de Bartholdi* |
+| 3 | 🥃 Alcool | **Mignonnette de Chartreuse Verte** (5cl) | Étape 4 — Pradel/Opéra | *L'Élixir Royal des Moines de la Montagne* |
+| 4 | 🌿 Plante | **Brin de menthe fraîche** | Étape 7 — Quais de Saône | *L'Herbe Sacrée des Esprits du Fleuve* |
+| 5 | 🧊 Liquide pétillant | **Petite bouteille de limonade artisanale** (33cl) | Étape 10 — Fourvière | *L'Eau Pétillante des Sources Sacrées* |
+
+**Le Cocktail "Antidote du Loutron"** (recette finale, à servir à Fourvière) :
+- Dans un verre rempli aux 3/4 de glace pilée :
+- Verser la **mignonnette de Chartreuse Verte** (5cl)
+- Ajouter **2 traits de sirop de violette** (≈ 1.5cl)
+- **Tremper le médaillon "Louis"** dans le verre solennellement, puis le ressortir et l'essuyer (le médaillon est pas bu — il devient le souvenir de la quête, à offrir à Yoann)
+- Compléter avec la **limonade artisanale** jusqu'au bord
+- Garnir du **brin de menthe fraîche** sur le dessus
+- Servir avec une paille en métal ou bambou, et hop, voilà l'antidote
+- **Effet :** boisson **vert-violet pétillante** absolument photogénique, qui fait vraiment "potion magique"
+
+**Les autres composants matériels (non-cocktail) :**
+- **Fer à cheval** (chocolat de préférence, à grignoter en cours de route) — récompense de couronnement à Bellecour, **pas dans le cocktail** mais reste un trophée narratif
+- **Brin de muguet "sacré"** récupéré à Fourvière — offrande symbolique séparée, pas dans le cocktail (Yoann l'ajoute à son bouquet pour sa future femme)
+
+**À acheter la veille pour le cocktail antidote :**
+- 1 mignonnette de Chartreuse Verte (en cave à vin/spiritueux ou supermarché bien fourni — env. 3-4€)
+- 1 petite bouteille de sirop de violette (en épicerie fine ou au rayon sirops — Monin, Giffard ou marque artisanale)
+- 1 bouquet de menthe fraîche (à conserver au frigo, garder la fraîcheur jusqu'au matin)
+- 1 bouteille de limonade artisanale 33cl (Lorina, Elixia, ou marque locale lyonnaise)
+- 1 sachet de glace pilée OU une glacière avec glaçons à piler sur place
+- 1 médaillon gravé "Louis" (à acheter en brocante / mercerie / ou commander en ligne — médaille de Saint-Louis ou pendentif type breloque)
+- 9 verres en plastique transparent solide
+- Pailles métal ou bambou (9)
+
+**Glacière finale (à transporter toute la journée) :**
+- Les 5 ingrédients du cocktail (Chartreuse + sirop violette + menthe + limonade + médaillon)
+- Glaçons / glace pilée
+- 9 verres plastique transparent solide + pailles
 - Eau, essuie-tout, couteaux à charcuterie + planche en bois
+- Mâchon Royal Lyonnais (cf. ci-dessous)
 
 ### 🥓 Le Sac à Dos Gourmand (à préparer la veille)
 
@@ -441,12 +469,13 @@ Yoann, en costume de loutre, **ne parle pas humain** — il observe. Les invité
 
 **À partir de cet instant, la Garde est officiellement constituée et la quête peut vraiment commencer.**
 
-**Énigme — "Le Couronnement de la Loutre"** *(1er ingrédient = fer à cheval)*
+**Énigme — "Le Couronnement de la Loutre"** *(1er ingrédient de l'antidote = MÉDAILLON LOUIS — l'objet)*
 
 Yoann doit accomplir **le Défi de la Queue** :
 1. Photo iconique **sous la queue du cheval**, dans une posture rigolote au choix de Yoann (V de la victoire, pouce levé, mains jointes en prière, peu importe — il décide). Postée sur le groupe WhatsApp du mariage avec : *"Je suis prêt pour le grand jour."*
 2. Convaincre **un autre groupe d'EVG** présent à Bellecour (il y en a TOUJOURS) de poser avec lui pour une photo. Bonus si EVJF.
-3. Cérémonie : tous les invités forment un cercle solennel autour de lui, un témoin pose le **fer à cheval** sur la tête du costume. *« Loutre Yoann, premier de ton nom, gardien des traditions, reçois cet ingrédient. »*
+3. Cérémonie du Couronnement : tous les invités forment un cercle solennel autour de lui. Un témoin pose un **fer à cheval en chocolat** sur la tête du costume *« Loutre Yoann, premier de ton nom, gardien des traditions, reçois cette couronne. »* (le fer à cheval est un **trophée comestible** à grignoter — il n'est PAS dans l'antidote final).
+4. **Remise du Médaillon "Louis" — 1er ingrédient de l'antidote** : un témoin présente le médaillon gravé/breloque dans le creux de la main. *« Voici le Sceau du Roi-Soleil. Sous le cheval de Louis XIV, sur la place de Bellecour, tu reçois le premier ingrédient de ton antidote. Garde-le précieusement — il scellera le cocktail final à Fourvière. »* Yoann le glisse dans une pochette de son sac.
 
 **🥓 Ration Diabolique #1 :** une fois le couronnement terminé, l'Esprit du Pacte sort une **rondelle de rosette de Lyon** sur un cure-dent et la lui offre solennellement. *« Pour ta peine, Loutre Yoann, du gras pour le ventre et du sel pour les larmes. »*
 
@@ -497,21 +526,21 @@ Enveloppe étape 3 :
 
 **Pourquoi ce lieu :** la Fontaine Bartholdi (sculpteur de la Statue de la Liberté) représente une allégorie où le char est tiré par quatre chevaux symbolisant les fleuves de France.
 
-**Énigme — "Les Larmes du Lion"** *(2e ingrédient = fiole de grenadine)*
+**Énigme — "Les Larmes Parfumées du Lion"** *(2e ingrédient de l'antidote = SIROP DE VIOLETTE — le sirop)*
 
 Question :
 > *« Quel sculpteur a réalisé cette fontaine ? Et quelle œuvre mondialement célèbre porte aussi sa signature ? »*
 
 Réponse : Bartholdi / Statue de la Liberté.
 
-Une fois la réponse dite à voix haute, un témoin sort la **fiole de grenadine**.
+Une fois la réponse dite à voix haute, un témoin sort une **petite fiole/flacon contenant le sirop de violette** et la remet solennellement à Yoann. *« Voici les Larmes Parfumées du Lion de Bartholdi — capturées au matin pendant que la fontaine pleurait. Deuxième ingrédient de ton antidote, à conserver précieusement. »*
 
 **Défi bonus :** Yoann doit poser devant la fontaine en imitant **la posture exacte d'un des quatre chevaux** de la fontaine (cabré, hennissant, etc.) pendant 20 secondes. Photo de groupe avec les 5 invités qui font les 4 autres chevaux + le char.
 
 **Action diabolique étape 3 :**
 - **Pacte** : *« Je te dis le nom du sculpteur, si tu déclares à voix haute pendant 30 secondes ce que tu aimes chez ta future femme — avec au moins 1 jeu de mots pourri dedans. »*
 - **Mensonge — Choix du Menteur** : *« 3 indices sur cette fontaine. Indice 1 : le sculpteur a aussi sculpté une œuvre célèbre à New York. (vrai) — Indice 2 : la fontaine date du 18e siècle. (faux : 19e, mise en place en 1892 sur cette place après avoir été créée pour Bordeaux à l'origine) — Indice 3 : les 4 chevaux représentent les 4 grands fleuves de France. (vrai). »* Défi compensatoire si mauvaise pioche : faire le bruit d'un cheval (hennissement) sous la statue, à la satisfaction du groupe.
-- **Tentation** : *« Et si tu inventais le slogan publicitaire de la grenadine, à hurler depuis le bord de la fontaine ? Genre ‘La Grenadine, le sang du lion qui fait kiffer ton vrai mion'. Bonus muguet pour le slogan le plus pourri. »*
+- **Tentation** : *« Et si tu inventais le slogan publicitaire du sirop de violette, à hurler depuis le bord de la fontaine ? Genre ‘La Violette, ça parfume ton mariage et tes ablutions'. Bonus muguet pour le slogan le plus pourri. »*
 
 Enveloppe étape 4 :
 
@@ -523,7 +552,7 @@ Enveloppe étape 4 :
 
 **Pourquoi ce lieu :** Louis Pradel, ancien maire de Lyon, donne son nom à la place de l'Opéra. **Louis = nom du marié.** Deuxième clin d'œil "Louis".
 
-**Énigme — "Le Médaillon de l'Homonyme"** *(3e ingrédient)*
+**Énigme — "L'Élixir Royal de l'Homonyme"** *(3e ingrédient de l'antidote = MIGNONNETTE DE CHARTREUSE VERTE — l'alcool)*
 
 Yoann compose et performe un **mini-discours de mariage à lui-même** — il joue à la fois le marié et le témoin, debout sur les marches de l'Opéra. Durée minimum : **2 minutes**. Public : les 8 + passants. Vidéo obligatoire — projetée au mariage.
 
@@ -531,7 +560,7 @@ Yoann compose et performe un **mini-discours de mariage à lui-même** — il jo
 - Caser **3 mots imposés** par les témoins. Suggestions : "courgette", "URSSAF", "Carglass". **[À PERSONNALISER — choisis 3 mots qui feront marrer la table.]**
 - Caser **au moins 3 jeux de mots** dans le discours. Au choix : avec "loutre", "Louis", "marié", "Yoann", "mustélidé", ou tout ce qui passe. C'est sa signature, on lui sert sur un plateau.
 
-Une fois fini, un témoin lui remet le **médaillon Louis**.
+Une fois fini, un témoin lui remet la **mignonnette de Chartreuse Verte**. *« Voici l'Élixir Royal des Moines de la Montagne, distillé à Voiron par les Chartreux, qui résume à lui seul la spiritualité alpine. Troisième ingrédient de ton antidote, et clin d'œil régional — la Chartreuse, c'est ton voisinage spirituel. À garder dans la poche, pas à boire maintenant. »*
 
 **🥓 Ration Diabolique #2 :** après le discours, l'Esprit du Pacte présente une **bouchée de jésus de Lyon** (gros saucisson) sur la pointe d'un couteau de poche. *« Du Jésus pour Yoann le messie de la loutrerie. Mange. »*
 
@@ -598,7 +627,7 @@ Enveloppe étape 7 :
 
 **Pourquoi ce lieu :** descente naturelle depuis Croix-Rousse. Vis-à-vis avec le Vieux Lyon sur l'autre rive.
 
-**Énigme — "Le Baptême de la Saône"** *(4e ingrédient = plume)*
+**Énigme — "Le Baptême de la Saône"** *(4e ingrédient de l'antidote = BRIN DE MENTHE FRAÎCHE — la plante)*
 
 Yoann accomplit **2 défis sur 3** :
 
@@ -606,7 +635,7 @@ Yoann accomplit **2 défis sur 3** :
 2. **L'Offrande** : il achète une **rosette de Lyon** (ou une brioche praline si commerce ouvert) à un vendeur du quai, en mime intégral (la loutre ne parle pas humain) — les esprits-traducteurs ne peuvent qu'aider sur les négociations financières, pas sur la commande. L'offrande est partagée avec le groupe en hommage à l'esprit du fleuve. **Plan B si rien d'ouvert sur les quais le 1er mai** : un Esprit a "trouvé" une rosette planquée derrière une borne (celle du Sac à Dos Gourmand) — Yoann doit alors mimer la trouvaille comme une découverte miraculeuse.
 3. **La Sérénade** : sérénade improvisée à un canard / cygne / goéland posé sur la Saône. Si l'animal ne s'enfuit pas dans les 10 secondes, défi réussi. Filmée.
 
-Une fois 2 défis validés, un témoin remet la **plume** ("trouvée flottant sur la Saône").
+Une fois 2 défis validés, un témoin sort un **brin de menthe fraîche** (préservé au frais dans le sac depuis le matin) et le remet à Yoann. *« Voici l'Herbe Sacrée des Esprits du Fleuve — cueillie ce matin sur la rive avant que le soleil ne se lève. Quatrième ingrédient de ton antidote. La menthe purifie, et toi tu en as bien besoin, mar-loutre. »*
 
 **Action diabolique étape 7 :**
 - **Pacte** : *« Je t'autorise à parler humain pour le défi 2 (l'Offrande), si tu chantes ‘Sous les ponts de Paris' en remplaçant ‘Paris' par ‘Lyon' au bord de l'eau d'abord. »*
@@ -675,7 +704,7 @@ Enveloppe étape 10 :
 
 **Pourquoi ce lieu :** finale grandiose. La basilique de Fourvière domine Lyon. Esplanade gratuite, vue panoramique sur la ville. **Le 1er mai, pas de funiculaire** — donc la montée se fait à pied par la **Montée Saint-Barthélemy** (chemin pavé en pente régulière, ~15 min depuis la Cathédrale Saint-Jean ; alternative plus raide : Montée des Chazeaux, escaliers, ~10 min mais costaud).
 
-### Mission finale en 3 temps :
+### Mission finale en 4 temps :
 
 **A — La collecte du muguet (en route vers Fourvière)**
 Yoann doit avoir collecté ses **5 brins de muguet** auprès d'inconnus. Si pas atteint, c'est le moment ou jamais — entre la cathédrale et le pied de la montée, dernière chance. Si après tout il manque encore des brins → un témoin a un **plan B** : 5 brins planqués dans le sac, "miraculeusement trouvés" en haut.
@@ -687,22 +716,40 @@ Plus de funiculaire le 1er mai. La montée devient **la dernière épreuve initi
 
 **Pendant la montée**, défi narratif simple : **Yoann doit prononcer un jeu de mots pourri à chaque palier** (à chaque tournant, ou tous les 50 mètres). À lui de tenir le rythme. C'est sa zone de confort, ça occupera son cerveau pendant que ses jambes souffrent. Les 5 invités peuvent l'aider à trouver des idées — concours de jeux de mots collectifs.
 
-**Pause au Calvaire de Fourvière** (les 14 stations du Chemin de Croix sont effectivement disposées sur cette montée, c'est l'occasion d'une vraie pause photo à mi-parcours, bouteille d'eau, soufflage). À ce moment, l'Esprit du Pacte sort la dernière ration : **un Saint-Marcellin entamé sur un quignon de pain** pour Yoann. Pas obligatoire, mais ça lui fera plaisir avant le sommet.
+**Pause au Calvaire de Fourvière** (les 14 stations du Chemin de Croix sont effectivement disposées sur cette montée, c'est l'occasion d'une vraie pause photo à mi-parcours, bouteille d'eau, soufflage). À ce moment, l'Esprit du Pacte sort la dernière ration : **un Saint-Marcellin entamé sur un quignon de pain** pour Yoann.
 
 **Backup physique :** si Yoann (ou un invité) cale vraiment (genou, fatigue critique), commander un VTC sur 2 places maximum pour les 100 derniers mètres et finir à pied. C'est un EVG, pas une course de montagne.
 
-**C — Le Mâchon Royal Lyonnais au sommet**
-Sur l'esplanade, mise en scène solennelle face aux 5 invités. Les 3 esprits diaboliques sortent **la glacière ET le Sac à Dos Gourmand**. Étalage du **Mâchon Royal Lyonnais** sur une nappe (à prévoir) ou directement sur la pierre de l'esplanade : saucisson brioché, cervelle de canut, ce qui reste du Saint-Marcellin, tablier de sapeur, baguettes, vin, tarte praline rose, coussins de Lyon.
+**C — La récolte du 5e ingrédient au sommet**
+Une fois sur l'esplanade, juste avant le rituel, un témoin sort la **petite bouteille de limonade artisanale** de la glacière. *« Voici l'Eau Pétillante des Sources Sacrées de Fourvière, recueillie au pied de la basilique pendant la nuit du 1er mai. Cinquième et dernier ingrédient de ton antidote, mar-loutre. »* Yoann tient maintenant les 5 ingrédients : médaillon, sirop, Chartreuse, menthe, limonade.
 
-**À ce moment du jeu, le rôle des Esprits change** : ils annoncent que la malédiction étant sur le point d'être levée, ils redeviendront humains après le cocktail. Plus de Pacte, plus de Mensonge, plus de Tentation.
+**D — La Préparation du Cocktail Antidote (rituel solennel)**
+Mise en scène face aux 5 invités. Les 3 esprits diaboliques sortent **la glacière ET le Sac à Dos Gourmand**. **À ce moment du jeu, le rôle des Esprits change** : ils annoncent que la malédiction étant sur le point d'être levée, ils redeviendront humains après le cocktail. Plus de Pacte, plus de Mensonge, plus de Tentation.
 
-> *« Loutre Yoann, premier de ton nom, tu as parcouru Lyon à pied. Tu as gravi le Calvaire. Tu as réuni les 5 ingrédients. Tu as collecté le muguet du 1er mai. Tu as honoré ton homonyme deux fois — devant l'Opéra de Pradel et devant le cheval du Roi. Tu nous as supportés, nous tes esprits diaboliques. Et tu mérites le festin du Roi. La malédiction touche à sa fin. Bois l'Antidote du Loutron. »*
+> *« Loutre Yoann, premier de ton nom, tu as parcouru Lyon. Tu as gravi le Calvaire. Tu as réuni les 5 Ingrédients de l'Antidote. Tu as collecté le muguet du 1er mai. Tu as honoré ton homonyme deux fois — devant l'Opéra de Pradel et devant le cheval du Roi. Tu nous as supportés, nous tes esprits diaboliques. La malédiction touche à sa fin. Voici venue l'heure de l'Antidote du Loutron. »*
 
-Le cocktail est shaké devant lui. Ajout symbolique des 5 ingrédients dans le verre : la plume au-dessus, la grenadine versée pour de vrai, le médaillon trempé et essuyé, le fer à cheval flotte, le muguet sacré sur le bord.
+**Recette du cocktail (préparé devant Yoann, dans son verre, dans cet ordre rituel) :**
 
-Yoann boit. Roulement de tambour. **Il retire la tête du costume.**
+1. **Le Sceau du Roi-Soleil** (médaillon Louis) — un Esprit prend le médaillon de la pochette de Yoann, le plonge solennellement dans le verre vide, prononce *« Que ce verre soit scellé sous l'autorité de Louis »*, puis le ressort, l'essuie et le rend à Yoann en souvenir.
+
+2. **L'Eau Pétillante des Sources Sacrées** (limonade) — verser environ 1/3 du verre en glace pilée d'abord (sortie de la glacière), puis ajouter la limonade jusqu'aux 2/3.
+
+3. **L'Élixir Royal des Moines** (Chartreuse Verte) — ouvrir la mignonnette, verser cérémonieusement les 5cl. Le vert intense de la Chartreuse se mêle à la glace.
+
+4. **Les Larmes Parfumées du Lion** (sirop de violette) — ajouter 2 traits de sirop. Le violet pourpre tombe au fond du verre, créant un dégradé violet-vert magnifique.
+
+5. **L'Herbe Sacrée des Esprits du Fleuve** (menthe fraîche) — claquer le brin de menthe entre les paumes pour libérer le parfum, puis le poser sur le dessus du cocktail comme une couronne.
+
+Le cocktail est posé devant Yoann, **vert-violet pétillant**, garni de menthe.
+
+> *« Loutre Yoann, bois cet Antidote. Et redeviens humain. »*
+
+Yoann boit. Roulement de tambour (enceinte Bluetooth). **Il retire la tête du costume.**
 
 > *« La malédiction est levée. Yoann Louis, tu es de nouveau humain. Et nous, tes témoins, sommes redevenus tes témoins. Demain, tu te maries. Maintenant, on mange. »*
+
+**E — Le Mâchon Royal Lyonnais (festin de fin de quête)**
+Étalage du **Mâchon Royal Lyonnais** sur une nappe (à prévoir) ou directement sur la pierre de l'esplanade : saucisson brioché, cervelle de canut, ce qui reste du Saint-Marcellin, tablier de sapeur, baguettes, vin, tarte praline rose, coussins de Lyon.
 
 Ouverture du Mâchon Royal pour les 9. Vin servi. Coucher de soleil sur Lyon. Photo de groupe avec Lyon en arrière-plan. Le costume de loutre devient un objet de mariage — à déposer sous la table d'honneur le lendemain.
 
@@ -745,7 +792,7 @@ Ouverture du Mâchon Royal pour les 9. Vin servi. Coucher de soleil sur Lyon. Ph
 
 ## 🎁 Bonus : la "Boîte de Mémoires"
 
-À la fin, donne à Yoann une **petite boîte** avec les 5 ingrédients (la plume, la fiole vide, le médaillon, un morceau du fer à cheval, un brin de muguet à faire sécher), date "1er mai" gravée. À ouvrir dans 10 ans avec sa femme.
+À la fin, donne à Yoann une **petite boîte** avec les souvenirs tangibles de la quête : le **médaillon "Louis"** (Sceau du Roi-Soleil), la **fiole vide** du sirop de violette, la **mignonnette de Chartreuse** (vide ou pleine, à toi de voir), la menthe **séchée** entre deux feuilles de papier, le **bouchon de la limonade**, et un brin de muguet à faire sécher. Date "1er mai" gravée. À ouvrir dans 10 ans avec sa femme.
 
 ---
 
