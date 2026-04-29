@@ -5,7 +5,7 @@
 
 ## 📚 Les 3 fichiers à utiliser
 
-### 1. `antidote_marie_loutre_v13.md` — LE SCÉNARIO COMPLET
+### 1. `antidote_marie_loutre_v23.md` — LE SCÉNARIO COMPLET
 **Pour qui :** les 3 témoins (toi + Brice + Jonathan), document de référence.
 **Contient :** synopsis, mécaniques (Esprits Diaboliques + Garde du Roi), planning détaillé, parcours des 10 étapes avec énigmes/défis/actions diaboliques par étape, briefings, conseils sécurité, recettes mâchon et cocktail final.
 **À lire :** au moins 1 fois en intégralité dans la semaine qui précède.
@@ -26,7 +26,7 @@
 
 ---
 
-### 3. `esprits_diaboliques_fiches_memo_v5.md` — FICHES MÉMO TÉMOINS
+### 3. `esprits_diaboliques_fiches_memo_v10.md` — FICHES MÉMO TÉMOINS
 **Pour qui :** vous trois, une fiche par témoin (Pacte / Mensonge / Tentation), à garder en poche pendant les 4h.
 **Contient :** mécanique de chaque pouvoir, règles, exemples par étape, planning, et pour Brice le tableau des **10 kits d'indices Mensonge** prêts à l'emploi.
 **À faire :**
@@ -46,10 +46,10 @@
 | **14h00** | **Convergence à Bellecour** sous le cheval Louis XIV |
 | 14h00–14h15 | Cérémonie pioche + 10 min lecture des rôles |
 | 14h15–14h30 | Présentations solennelles + défi de la queue |
-| 14h30 | Étapes 2-9 (Saint-Ex → Terreaux → Pradel → Sathonay → Gros Caillou → Saône → Traboule → Cathédrale) |
-| 17h00 | Pied du Calvaire de la Loutre (Montée Saint-Barthélemy) |
-| 17h20 | Esplanade Fourvière — cocktail antidote |
-| 17h40+ | Mâchon Royal Lyonnais — durée libre |
+| 14h30 | Étapes 2-8 (Saint-Ex → Terreaux → Pradel → **Delicatessen+Sathonay** → Saône → Traboule → **Beer O'clock**) |
+| 16h30 | Pied du Calvaire de la Loutre (Montée Saint-Barthélemy) |
+| 16h50 | Esplanade Fourvière — cocktail antidote |
+| 17h10+ | Mâchon Royal Lyonnais — durée libre |
 
 ---
 
@@ -114,8 +114,11 @@
 **Logistique :**
 - [ ] **VTC réservé la veille pour 13h30** (transfert chez Yoann → Bellecour)
 - [ ] Vérifier la veille au soir le trajet du cortège syndical du 1er mai (Le Progrès / Lyon Capitale)
+- [ ] **Acheter le Sandwich Fantôme au Delicatessen le 30 avril** (6 rue de Savy, 1er — tenu par Brice Fournier, alias Kadoc dans Kaamelott) — le restaurant est fermé le 1er mai, donc achat impératif la veille. Privilégier un sandwich qui se conserve au frais 24h (pastrami/cornichon plutôt que œuf chaud). À glisser dans une glacière individuelle pour Yoann.
 - [ ] Vérifier l'ouverture de la Longue Traboule (rue du Bœuf 27)
-- [ ] Vérifier les horaires de l'horloge astronomique cathédrale Saint-Jean
+- [ ] *(Optionnel)* Préparer chacun 1 anecdote de bar vraie + 1 fausse en tête, au cas où tu sècherais sur le moment. Les invités préparent les leurs de leur côté (cf. briefing).
+- [ ] Acheter **2-3 canettes de la bière préférée que Yoann commandait au Beer O'clock** (à mettre dans la glacière le matin)
+- [ ] *(Optionnel)* Préparer une petite plaque-souvenir en carton à poser brièvement devant l'ancienne devanture (à retirer en partant)
 - [ ] Briefing aux invités envoyé (cf. message-type dans le scénario v13)
 - [ ] Téléphone dédié aux photos/vidéos chargé à 100%
 - [ ] Argent liquide pour le muguet et imprévus

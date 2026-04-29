@@ -15,12 +15,12 @@
 | **14h00** | **Convergence à Bellecour** — Yoann + 3 témoins + invités sous la queue du cheval |
 | 14h00–14h15 | Cérémonie de la pioche des rôles + 10 min de lecture/incarnation |
 | 14h15–14h30 | Présentations solennelles + défi de la queue (étape 1) |
-| 14h30 | Démarrage des étapes 2 à 9 |
-| 17h00 | Pied de la Montée Saint-Barthélemy (Calvaire de la Loutre) |
-| 17h20 | Esplanade de Fourvière — cocktail antidote |
-| 17h40+ | Mâchon Royal Lyonnais — durée libre |
+| 14h30 | Démarrage des étapes 2 à 8 (Saint-Ex, Bartholdi, Pradel, Delicatessen, Saône, Traboule, Beer O'clock) |
+| 16h30 | Pied de la Montée Saint-Barthélemy (Calvaire de la Loutre) |
+| 16h50 | Esplanade de Fourvière — cocktail antidote (étape 9) |
+| 17h10+ | Mâchon Royal Lyonnais — durée libre |
 
-⚠️ **Marge de manœuvre :** ce planning est calculé serré. Si une étape déborde de 15 min, ajuster en raccourcissant une étape plus simple. Si vraiment retard cumulé > 30 min, sauter l'étape Saint-Ex (étape 2) qui est très proche de Bellecour et peu critique narrativement.
+⚠️ **Marge de manœuvre :** ce planning a maintenant ~30 min de marge (suppression de l'étape Gros Caillou). Si une étape déborde, pas de panique. Si tout roule, le mâchon démarre plus tôt et peut s'éterniser jusqu'à l'apéro du soir.
 
 🚗 **Trajet voiture :** point de dépose à proximité de Bellecour (Place Antonin Poncet, Quai Tilsitt, ou Rue Sala). Conducteur sobre OU VTC réservé la veille pour 13h30. Bâche/serviette sur la banquette pour le costume.
 
@@ -63,19 +63,18 @@ Yoann peut **accepter ou refuser librement**. S'il refuse, on passe.
 | 2 | Saint-Ex | "Je te souffle 3 mots-clés du Petit Prince contre…" |
 | 3 | Bartholdi | "Je te dis le nom du sculpteur contre…" |
 | 4 | Pradel (discours) | "Je te réduis le discours de 2 min à 1 min contre…" |
-| 5 | Sathonay | "Je te désigne le passant à aborder contre…" |
-| 6 | Gros Caillou | "Je compte les retournements pour toi contre…" |
-| 7 | Quais Saône | "Je t'autorise à parler humain pour l'Offrande contre…" |
-| 8 | Traboule | "Je te révèle l'emplacement d'un post-it contre…" |
-| 9 | Cathédrale | "Je te dis l'horaire exact du déclenchement contre…" |
-| 10 | Calvaire/Fourvière | (la quête se finit, le Pacte est moins central) |
+| 5 | Delicatessen + Sathonay | "Je te dispense de l'Épreuve des Citations Kaamelott contre…" |
+| 6 | Quais Saône | "Je t'autorise à parler humain pour l'Offrande contre…" |
+| 7 | Traboule | "Je te révèle l'emplacement d'un post-it contre…" |
+| 8 | Beer O'clock | "Je te livre 1 mensonge sur 3 dans les anecdotes contre…" |
+| 9 | Calvaire/Fourvière | (la quête se finit, le Pacte est moins central) |
 
 ### 🥓 Bonus : tu es aussi le **Distributeur des Rations Diaboliques**
 À 4 étapes-clés, tu sors une bouchée du Sac à Dos Gourmand et tu la remets à Yoann avec emphase :
 - **Étape 1** (Bellecour) : rosette de Lyon — *« Du gras pour le ventre et du sel pour les larmes. »*
 - **Étape 4** (Pradel) : jésus de Lyon — *« Du Jésus pour Yoann le messie de la loutrerie. »*
-- **Étape 6** (Gros Caillou) : poignée de gratton — *« Vue panoramique, ration carnivore. »*
-- **Étape 8** (sortie traboule) : brioche aux pralines roses — *« Du rose pour ta belle, mar-loutre. »*
+- **Étape 5** (Delicatessen + Sathonay) : le sandwich gras du Delicatessen EST la ration principale. Bonus poignée de **gratton lyonnais** sortie sur le banc Sathonay pour partager — *« Pause carnivore, Loutre. Mi-parcours, du gras pour tenir. »*
+- **Étape 7** (sortie traboule) : brioche aux pralines roses — *« Du rose pour ta belle, mar-loutre. »*
 
 ### 🎴 Mission additionnelle étape 1 : le Maître de la Pioche
 À l'arrivée sous la queue du cheval Louis XIV à 14h00, c'est toi qui **orchestres la cérémonie de la pioche des rôles**. Tu sors le sac contenant les 6 fiches pliées et tu déclames :
@@ -112,7 +111,7 @@ Yoann choisit UN seul indice ("Indice 1", "2" ou "3"). Tu lui dis ensuite si c'�
 - **Bonus muguet** : si Yoann tombe sur un vrai indice, il peut **deviner ensuite quel des 2 autres était le faux**. S'il devine juste → +1 brin de muguet bonus
 - **Variante drôle ponctuelle** : tu peux 1 fois dans la journée "oublier" de mettre un faux (3 vrais) pour casser le rythme. Ça rend ton pouvoir plus vivant.
 
-### 📋 TES 10 KITS D'INDICES (à mémoriser ou avoir sur soi)
+### 📋 TES 9 KITS D'INDICES (à mémoriser ou avoir sur soi)
 
 #### Étape 0 — Chez Yoann (sujet : Bellecour)
 - *Indice 1 :* La place s'appelle Bellecour. **(VRAI)**
@@ -143,35 +142,29 @@ Yoann choisit UN seul indice ("Indice 1", "2" ou "3"). Tu lui dis ensuite si c'�
 - *Indice 3 :* La place porte son nom officiellement. **(VRAI)**
 - *Défi compensatoire :* refaire un bout du discours en chuchotant comme s'il révélait un secret d'État
 
-#### Étape 5 — Sathonay (sujet : Sergent Blandan)
-- *Indice 1 :* C'est un héros militaire mort au 19e siècle. **(VRAI)**
-- *Indice 2 :* Il s'est illustré en Algérie. **(VRAI)**
-- *Indice 3 :* Il était cuisinier dans l'armée. **(FAUX — sous-officier d'infanterie de marine, mort en 1842 lors du combat de Sidi-Brahim)**
-- *Défi compensatoire :* salut militaire devant la statue en disant *« À vos ordres, sergent Blandard, euh Blandan. »*
+#### Étape 5 — Delicatessen + Sathonay (sujet : Kaamelott)
+- *Indice 1 :* La série a été créée par Alexandre Astier, qui joue lui-même le roi Arthur. **(VRAI)**
+- *Indice 2 :* Kadoc et Karadoc sont frères dans la série. **(VRAI)**
+- *Indice 3 :* La série compte 7 saisons, appelées "Livres". **(FAUX — il y en a 6, Livres I à VI, diffusés entre 2005 et 2009 sur M6)**
+- *Défi compensatoire :* devant la statue du Sergent Blandan (place Sathonay voisine), faire le salut militaire en demandant solennellement *« Sergent, elle est où la poulette ? »*
 
-#### Étape 6 — Gros Caillou (sujet : le Caillou)
-- *Indice 1 :* C'est une roche déposée par un glacier alpin. **(VRAI)**
-- *Indice 2 :* Il a été découvert au 19e siècle, lors du percement du tunnel de la Croix-Rousse. **(VRAI)**
-- *Indice 3 :* Il pèse environ 30 tonnes. **(FAUX — plusieurs centaines de tonnes selon les sources, c'est massif)**
-- *Défi compensatoire :* essayer de "soulever" le caillou avec un cri d'haltérophile
-
-#### Étape 7 — Quais Saône (sujet : la rivière)
+#### Étape 6 — Quais Saône (sujet : la rivière)
 - *Indice 1 :* La Saône se jette dans le Rhône à Lyon. **(VRAI)**
 - *Indice 2 :* La Saône prend sa source dans les Vosges. **(VRAI)**
 - *Indice 3 :* La Saône est plus longue que le Rhône. **(FAUX — Rhône ~813 km, Saône ~480 km)**
 - *Défi compensatoire :* 10 secondes de "danse du saumon" au bord de l'eau
 
-#### Étape 8 — Traboules (sujet : les traboules de Lyon)
+#### Étape 7 — Traboules (sujet : les traboules de Lyon)
 - *Indice 1 :* "Traboule" vient du latin "trans ambulare" (passer à travers). **(VRAI)**
 - *Indice 2 :* Les traboules ont servi à la Résistance pendant la Seconde Guerre mondiale. **(VRAI)**
 - *Indice 3 :* Il y a plus de 1000 traboules à Lyon. **(FAUX — environ 400 répertoriées, surtout Vieux Lyon et Croix-Rousse)**
 - *Défi compensatoire :* à la sortie, dire bonjour à 3 personnes en imitant le canut lyonnais (avec "Gone" et "Pardi" obligatoires)
 
-#### Étape 9 — Cathédrale Saint-Jean (sujet : horloge astronomique)
-- *Indice 1 :* C'est l'une des plus vieilles horloges astronomiques d'Europe. **(VRAI)**
-- *Indice 2 :* Elle est calibrée pour fonctionner jusqu'à un horizon précis dans le futur. **(à PRÉCISER LA VEILLE — vérifier sur place le détail exact, et formuler comme FAUX un détail spécifique inventé)**
-- *Indice 3 :* Elle se déclenche plusieurs fois par jour à des horaires précis affichés. **(VRAI)**
-- *Défi compensatoire :* à la sortie, demander à un passant l'heure en mimant une horloge avec ses bras
+#### Étape 8 — Ancien Beer O'clock (sujet : la bière)
+- *Indice 1 :* La bière est l'une des plus anciennes boissons fermentées au monde, attestée dès la Mésopotamie (~4000 av. J.-C.). **(VRAI)**
+- *Indice 2 :* Les bières IPA (India Pale Ale) ont été inventées au 18e siècle pour résister au voyage maritime vers les Indes britanniques. **(VRAI)**
+- *Indice 3 :* La bière "trappiste" peut être brassée par n'importe quelle abbaye qui en demande l'appellation. **(FAUX — le label "Authentic Trappist Product" est strictement réservé aux bières brassées dans une abbaye trappiste, sous contrôle des moines, à but non lucratif. Une douzaine d'abbayes au monde ont ce droit.)**
+- *Défi compensatoire :* Yoann doit citer à voix haute **3 styles de bière différents** + leur pays d'origine probable, en moins de 30 secondes.
 
 ### 🎭 Style de livraison
 - Varie ta livraison : parfois énoncer les 3 indices d'un coup, parfois les glisser au fil de la conversation, parfois faire semblant d'hésiter (*« Indice 2, je crois que c'est… »*)
@@ -209,17 +202,16 @@ Yoann choisit UN seul indice ("Indice 1", "2" ou "3"). Tu lui dis ensuite si c'�
 
 | Étape | Lieu | Tentation suggérée |
 |---|---|---|
-| 0 | Chez Yoann | "Et si tu résolvais l'énigme à voix haute en alexandrins ?" *(non, blague, on a éviter ça)* — plutôt : "3 jeux de mots pourris avec ‘Bellecour' avant de partir" |
+| 0 | Chez Yoann | "3 jeux de mots pourris avec ‘Bellecour' avant de partir" |
 | 1 | Cheval Louis XIV | "Déclarer sa candidature à la mairie de Lyon depuis le socle, 60 sec, avec 3 promesses pourries (genre ‘fontaines à mojito le dimanche', ‘saucisson reconnu comme légume')" |
 | 2 | Saint-Ex | "Posée à côté de la statue dans la même position que Saint-Ex, 30 sec parfaitement immobile, photo iconique" |
-| 3 | Bartholdi | "Inventer le slogan publicitaire de la grenadine à hurler depuis le bord de la fontaine" |
+| 3 | Bartholdi | "Inventer le slogan publicitaire du sirop de violette à hurler depuis le bord de la fontaine" |
 | 4 | Pradel | "Finir le discours par ‘Yoann, je te promets fidélité, gras et jeux de mots pourris jusqu'à la fin de tes jours'" |
-| 5 | Sathonay | "Toi tu chantes d'abord aux passants pour donner l'exemple et casser la glace" |
-| 6 | Gros Caillou | "Donner un nom officiel au caillou et le baptiser solennellement (genre Robert le Roc, Caillou Marius)" |
-| 7 | Quais Saône | "Lancer un défi à un autre groupe au bord du quai — concours de cri de la loutre" |
-| 8 | Traboule | "Se faire passer pour un guide touristique improvisé devant un groupe à la sortie" |
-| 9 | Cathédrale | "À la sortie, se déclarer ‘Loutre du Temps' et donner l'heure en latin approximatif" |
-| 10 | Calvaire | (la quête se finit, plus de tentations à Fourvière) |
+| 5 | Delicatessen + Sathonay | "Commander ton sandwich en imitant la voix d'un personnage de Kaamelott (Perceval, Karadoc, Burgonde…). Bonus muguet si le tenancier rigole." |
+| 6 | Quais Saône | "Lancer un défi à un autre groupe au bord du quai — concours de cri de la loutre" |
+| 7 | Traboule | "Se faire passer pour un guide touristique improvisé devant un groupe à la sortie" |
+| 8 | Beer O'clock | "Déclarer la devanture ‘Site Sacré du Mustélidé Buveur' avec une plaque imaginaire et un discours d'inauguration de 60 sec max" |
+| 9 | Calvaire | (la quête se finit, plus de tentations à Fourvière) |
 
 ### 🎭 Style de livraison
 - **Toujours sur le ton de la complicité, pas de l'ordre**

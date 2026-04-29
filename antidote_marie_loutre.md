@@ -1,4 +1,4 @@
-# 🦦 L'Antidote du Marié-Loutre — Édition 1er Mai (v14)
+# 🦦 L'Antidote du Marié-Loutre — Édition 1er Mai (v23)
 ### Escape Game urbain pour l'EVG de Yoann Louis — Lyon, 4h, jour férié
 
 ---
@@ -21,7 +21,7 @@
 
 **Conséquences :**
 - **Trajet initial chez Yoann → Bellecour : EN VOITURE** (compter 30 min selon adresse + circulation). Bellecour étant piétonne, dépose à proximité (Place Antonin Poncet, Quai Tilsitt, ou Rue Sala). Conducteur sobre OU VTC réservé la veille pour 13h30.
-- **Tout le reste du parcours se fait à pied** entre les étapes (5-6 km cumulé sur les 4h de quête). Yoann en costume marchera environ **1h15 à 1h30** cumulé entre Bellecour et Fourvière.
+- **Tout le reste du parcours se fait à pied** entre les étapes (4-5 km cumulé sur les ~3h de quête active). Yoann en costume marchera environ **1h** cumulé entre Bellecour et Fourvière.
 - **Plus de funiculaire à Fourvière** → la montée finale devient à pied (Montée Saint-Barthélemy, ~15 min de pente régulière).
 - **Backups en cas de pépin physique** : taxis ou VTC (Uber, Bolt) restent disponibles en jour férié, mais à 9 personnes ça veut dire 3 voitures = compliqué et cher. À garder pour urgence (genou de Yoann qui craque, fatigue critique d'un invité).
 - **Trottinettes électriques en libre-service** (Dott, Lime, etc.) : disponibles le 1er mai, mais déconseillées pour une loutre en costume — équilibre précaire, batterie aléatoire, risque de chute. Sauf urgence individuelle.
@@ -42,7 +42,7 @@ Deux passions exploitées dans tout le scénario :
 **🎭 Les jeux de mots** — exploités à 4 niveaux :
 - Les **Esprits Diaboliques** parlent par calembours quand ils peuvent (cf. exemples plus bas)
 - L'**étape 4** (discours à l'Opéra) impose 3 jeux de mots à caser
-- L'**étape 6** (Gros Caillou) intègre un mini-défi calembour
+- L'**étape 5** (Delicatessen + Sathonay) intègre des défis Kaamelott et l'Épreuve des Citations
 - Les **enveloppes d'étape** sont truffées de jeux de mots cachés (à toi de les pousser à l'écrit quand tu prépares les enveloppes)
 
 **Boîte à idées calembours pour les Esprits** *(à utiliser librement pendant les 4h)* :
@@ -232,8 +232,8 @@ Le 1er mai, on offre du muguet porte-bonheur. Les particuliers ont le droit exce
 | 1 | 🗝️ Objet | **Médaillon "Louis"** (médaille gravée, pendentif, breloque) | Étape 1 — Bellecour | *Le Sceau du Roi-Soleil* |
 | 2 | 🍯 Sirop | **Sirop de violette** (artisanal, fiole) | Étape 3 — Terreaux | *Les Larmes Parfumées du Lion de Bartholdi* |
 | 3 | 🥃 Alcool | **Mignonnette de Chartreuse Verte** (5cl) | Étape 4 — Pradel/Opéra | *L'Élixir Royal des Moines de la Montagne* |
-| 4 | 🌿 Plante | **Brin de menthe fraîche** | Étape 7 — Quais de Saône | *L'Herbe Sacrée des Esprits du Fleuve* |
-| 5 | 🧊 Liquide pétillant | **Petite bouteille de limonade artisanale** (33cl) | Étape 10 — Fourvière | *L'Eau Pétillante des Sources Sacrées* |
+| 4 | 🌿 Plante | **Brin de menthe fraîche** | Étape 6 — Quais de Saône | *L'Herbe Sacrée des Esprits du Fleuve* |
+| 5 | 🧊 Liquide pétillant | **Petite bouteille de limonade artisanale** (33cl) | Étape 9 — Fourvière | *L'Eau Pétillante des Sources Sacrées* |
 
 **Le Cocktail "Antidote du Loutron"** (recette finale, à servir à Fourvière) :
 - Dans un verre rempli aux 3/4 de glace pilée :
@@ -270,13 +270,13 @@ Le 1er mai, on offre du muguet porte-bonheur. Les particuliers ont le droit exce
 
 Lyon est la capitale du gras, et la plupart des bouchons sont fermés le 1er mai — donc **tout est acheté la veille**, planqué dans un sac isotherme porté par un Esprit (rotation possible). Liste pour 9 personnes :
 
-**Pour les Rations Diaboliques en cours de quête** (petites bouchées remises en récompense aux étapes 1, 4, 6, 8) :
+**Pour les Rations Diaboliques en cours de quête** (petites bouchées remises en récompense aux étapes 1, 4, 5, 7) :
 - 1 **rosette de Lyon** (saucisson sec)
 - 1 **jésus de Lyon** (gros saucisson sec, plus rustique)
 - 1 paquet de **gratton lyonnais** (rillons, croustillants gras)
 - 1 **brioche aux pralines roses** (à diviser en bouchées)
 
-**Pour le Mâchon Royal Lyonnais à Fourvière** (étape 10, finale) :
+**Pour le Mâchon Royal Lyonnais à Fourvière** (étape 9, finale) :
 - 1 **saucisson brioché** (à servir tiède si possible)
 - **Cervelle de canut** (fromage frais aux herbes — à acheter en pot)
 - 1 **Saint-Marcellin** bien crémeux
@@ -304,10 +304,10 @@ Lyon est la capitale du gras, et la plupart des bouchons sont fermés le 1er mai
 | **Trajet Yoann + 3 témoins → Bellecour EN VOITURE** | 13h30–14h00 | 30 min |
 | **Convergence générale à Bellecour** | **14h00** | – |
 | Étape 1 Bellecour : pioche des rôles + retrouvailles + défi de la queue | 14h00–14h30 | 30 min |
-| Étapes 2 à 9 (énigmes + marches entre étapes) | 14h30–17h00 | 150 min |
-| Montée à Fourvière À PIED (Montée Saint-Barthélemy) | 17h00–17h20 | 20 min |
-| Étape 10 finale + désenvoûtement | 17h20–17h40 | 20 min |
-| Mâchon Royal Lyonnais à Fourvière | 17h40 → libre | tant que ça reste agréable |
+| Étapes 2 à 8 (énigmes + marches entre étapes) | 14h30–16h30 | 120 min |
+| Montée à Fourvière À PIED (Montée Saint-Barthélemy) | 16h30–16h50 | 20 min |
+| Étape 9 finale + désenvoûtement | 16h50–17h10 | 20 min |
+| Mâchon Royal Lyonnais à Fourvière | 17h10 → libre | tant que ça reste agréable |
 
 **🚗 Trajet en voiture chez Yoann → Bellecour :**
 - **Compter 30 minutes** (selon adresse de Yoann + circulation)
@@ -317,7 +317,7 @@ Lyon est la capitale du gras, et la plupart des bouchons sont fermés le 1er mai
 - Yoann en costume dans la voiture : prévoir **bâche / serviette sur la banquette arrière** au cas où le costume soit poussiéreux ou transpire
 - **Lecture de l'énigme du ralliement possible PENDANT le trajet** si l'étape 0 a duré plus longtemps que prévu — Yoann a 30 min captives pour réfléchir aux 4 cartes
 
-**Distance totale à pied estimée pendant le jeu :** environ **5-6 km cumulé** entre 14h et 17h40, dont 2 montées (Croix-Rousse + Fourvière) et 1 descente (Croix-Rousse → Saône). **Le trajet voiture initial vous économise ~4 km de marche** — Yoann sera plus frais pour la quête elle-même.
+**Distance totale à pied estimée pendant le jeu :** environ **4-5 km cumulé** entre 14h et 17h10, **avec une seule grosse montée** (la finale à Fourvière). Le reste du parcours est plat ou en légère descente. **Le trajet voiture initial vous économise ~4 km de marche** — Yoann sera plus frais pour la quête elle-même.
 
 **Pourquoi 14h et pas 15h ?** Démarrage tôt = on profite pleinement de l'après-midi, on évite la fatigue de fin de journée, on a une énorme marge si une étape déborde, et on arrive à Fourvière en plein soleil pour le mâchon. Coucher de soleil prévu vers 21h en mai, donc le mâchon peut s'éterniser tranquillement jusqu'à l'apéro du soir.
 
@@ -339,11 +339,10 @@ Lyon est la capitale du gras, et la plupart des bouchons sont fermés le 1er mai
 | 2 (Saint-Ex) | Saint-Exupéry | "Le Petit Prince a été écrit en France" (faux : USA) |
 | 3 (Bartholdi) | La fontaine | "Fontaine du 18e siècle" (faux : 19e) |
 | 4 (Pradel) | Louis Pradel | "Maire dans les années 30" (faux : 1957-1976) |
-| 5 (Sathonay) | Sergent Blandan | "Cuisinier dans l'armée" (faux : sous-officier) |
-| 6 (Gros Caillou) | Le Caillou | "Pèse 30 tonnes" (faux : ~670 tonnes) |
-| 7 (Saône) | La rivière | "Saône plus longue que le Rhône" (faux) |
-| 8 (Traboules) | Les traboules | "Plus de 1000 traboules à Lyon" (faux : ~400) |
-| 9 (Cathédrale) | Horloge astronomique | "Calibrée jusqu'en 2019" (faux/imprécis) |
+| 5 (Delicatessen + Sathonay) | Kaamelott | "Série compte 7 saisons" (faux : 6 livres) |
+| 6 (Saône) | La rivière | "Saône plus longue que le Rhône" (faux) |
+| 7 (Traboules) | Les traboules | "Plus de 1000 traboules à Lyon" (faux : ~400) |
+| 8 (Beer O'clock) | Bière | "Trappiste = n'importe quelle abbaye" (faux : 12 abbayes labellisées) |
 
 ### 😈 Mémo Pacte (toi)
 **Mécanique :** un deal par étape. Indice / aide / réduction de difficulté **contre** un défi style Yoann (chanson connue, vanne, jeu de mots, imitation). Toujours optionnel.
@@ -571,61 +570,70 @@ Une fois fini, un témoin lui remet la **mignonnette de Chartreuse Verte**. *« 
 
 Enveloppe étape 5 :
 
-> *Le souvenir du sergent Blandan t'appelle plus au nord. Sur sa place, l'esprit du Rhône t'attend.*
+> *Direction le nord de la presqu'île. Cherche un Temple du Gras, gardé par un simplet à la voix douce qui passe son temps à demander où est sa volaille. Sa question favorite tient en cinq mots, et elle prend soudain tout son sens pour un futur marié — car ta poulette à toi, c'est demain qu'elle s'engage. Si tu trouves le temple, tu trouveras la place voisine où dort un sergent.*
 
 ---
 
-## 🪶 Étape 5 — Place Sathonay (1er)
+## 🥩 Étape 5 — Le Delicatessen + Place Sathonay (1er)
 
-**Pourquoi ce lieu :** entrée des Pentes de la Croix-Rousse. Place ombragée avec la statue du Sergent Blandan.
+**Pourquoi ce lieu :** le **Delicatessen** (6 rue de Savy, 1er) est un **temple du sandwich gras** lyonnais, **tenu par Brice Fournier** — l'acteur qui joue **Kadoc** dans Kaamelott (le simplet candide qui passe son temps à demander *« Elle est où la poulette ? »*). Le restaurant est à 30 secondes à pied de la place Sathonay, donc on combine les deux : on commence devant le Delicatessen (gras + Kaamelott), on poursuit sur la place Sathonay voisine (banc, pause, partage des grattons).
 
-**Énigme — "Le Chant du Passant"** *(pas d'ingrédient — défi social)*
+Pour Yoann (fan de gras + de jeux de mots + très probablement de Kaamelott), c'est l'étape la plus taillée pour lui sur tout le parcours.
 
-**Défi :** Yoann (via les esprits-traducteurs) doit convaincre un passant inconnu de **lui chanter un extrait d'un dessin animé**, vidéo à l'appui. **[À PERSONNALISER]** si Yoann a un Disney/film fétiche.
+**⚠️ Le Delicatessen est FERMÉ le 1er mai (jour férié confirmé).** L'étape se joue donc **devant la devanture fermée** et sur la place Sathonay voisine. Le sandwich est acheté la veille au Delicatessen même.
 
-**Action diabolique étape 5 :**
-- **Pacte** : *« Je désigne le passant à aborder, si tu chantes 30 secondes du générique de Pokémon (ou autre dessin animé) en costume avant. »*
-- **Mensonge — Choix du Menteur** : *« 3 indices sur le Sergent Blandan. Indice 1 : c'est un héros militaire mort au 19e siècle. (vrai) — Indice 2 : il s'est illustré en Algérie. (vrai) — Indice 3 : il était cuisinier dans l'armée. (faux : il était sous-officier d'infanterie de marine, mort en 1842 lors du combat de Sidi-Brahim). »* Défi compensatoire si mauvaise pioche : faire le salut militaire devant la statue en disant *« À vos ordres, sergent Blandard, euh Blandan. »*
-- **Tentation** : *« Et si toi tu chantais d'abord aux passants, pour donner l'exemple et casser la glace ? »*
+**Énigme — "Le Sandwich de la Poulette"** *(pas d'ingrédient — défi gras + Kaamelott)*
 
-**🌸 Mission muguet :** place calme, conversations posées avec des locaux.
+Yoann accomplit **les 2 Épreuves du Temple**, suivies d'une pause sur la place Sathonay voisine :
+
+### 1. L'Épreuve du Sandwich Fantôme
+Un Esprit a acheté **la veille (30 avril)** au Delicatessen un sandwich gras pour Yoann (privilégier un truc qui se conserve : pastrami/cheddar/cornichon plutôt que œuf chaud). Conservé au frais 24h dans une glacière individuelle. À 14h45 environ, devant la devanture fermée, l'Esprit le sort solennellement :
+
+> *« Voici le Sandwich de la Poulette, sauvé du Temple endormi. Le simplet qui te demanderait ‘Elle est où la poulette ?' n'est pas là aujourd'hui — mais demain, Loutre Yoann, ta poulette à toi sera bien là. Mange ce sandwich devant la porte close, en hommage à celui qui aurait dit ‘On en a gros' s'il avait su que le temple serait fermé. »*
+
+Yoann mange le sandwich devant l'enseigne, **en costume, en moins de 5 minutes**. **Photo iconique** avec la vitrine en arrière-plan, la loutre qui mord dans le gras devant le temple fermé. Ça fait une image culte pour le mariage.
+
+### 2. L'Épreuve des Citations Kaamelott
+Pendant qu'il mange, Yoann doit **placer 5 citations cultes de Kaamelott** dans une conversation avec ses Esprits Diaboliques. Citations possibles (à doser selon son niveau de fan) :
+
+**Citations de Kadoc (le tenancier — celle qu'il faut absolument essayer de placer) :**
+- *« Elle est où la poulette ? »*
+
+**Autres citations cultes pour rester dans la série :**
+- *« C'est pas faux. »* (Karadoc)
+- *« On en a gros. »* (Perceval)
+- *« Mais quel boulet ! »* (Arthur, à Perceval)
+- *« On va manger des pâtes ! »* (Perceval)
+- *« Au feu ! Au feu ! Y a le feu ! »* (Karadoc / Perceval)
+- *« Sire, je suis votre serviteur. »* (Léodagan, sarcastique)
+- *« On va se le carrer dans le fion. »* (Léodagan)
+
+Bonus muguet pour 5 placées, bonus double pour 7+. **Bonus spécial Yoann** : si parmi les 5 il place *« Elle est où la poulette ? »* en regardant les passants ou la vitrine du Delicatessen, double bonus muguet — c'est l'hommage minimal au tenancier absent.
+
+### 3. La Pause Sathonay (banc, ration grattons, muguet)
+On sort de la rue de Savy, on traverse à la place Sathonay voisine (30 sec), on s'installe sur un banc. **C'est la vraie pause de mi-parcours** : moment plus calme, on souffle, on partage les grattons (cf. Ration Diabolique), on tente de récolter du muguet auprès des passants si certains en ont. Pas de défi imposé ici — Yoann récupère, l'ambiance se pose, les Esprits peuvent en profiter pour glisser une Tentation spontanée si l'environnement s'y prête (un passant rigolo, un type avec un chien, un autre groupe en goguette).
+
+### Action diabolique étape 5 :
+
+- **Pacte** : *« Je te dispense de l'Épreuve des Citations, si tu réussis à dire ‘Elle est où la poulette ?' avec exactement la voix candide de Kadoc (filmée pour vérification) — 3 essais maximum. »*
+- **Mensonge — Choix du Menteur** : *« 3 indices sur Kaamelott. Indice 1 : la série a été créée par Alexandre Astier, qui joue lui-même le roi Arthur. (vrai) — Indice 2 : Kadoc et Karadoc sont frères dans la série. (vrai) — Indice 3 : la série compte 7 saisons, appelées "Livres". (faux : il y en a 6, Livres I à VI, diffusés entre 2005 et 2009 sur M6). »* Défi compensatoire si mauvaise pioche : devant la statue du Sergent Blandan, faire le salut militaire en demandant solennellement *« Sergent, elle est où la poulette ? »*
+- **Tentation** : *« Et si tu mangeais ton sandwich en commentant chaque bouchée avec la voix d'un personnage de Kaamelott (Perceval, Karadoc, le Roi Burgonde, peu importe) ? Bonus muguet si tu enchaînes 3 personnages différents. »*
+
+**🥓 Ration Diabolique #3 :** elle est intégrée à l'épreuve du sandwich elle-même — le sandwich fantôme EST la ration. **Le paquet de gratton lyonnais peut être ajouté en bonus** sur le banc Sathonay, pour partager avec le groupe pendant la pause.
+
+**🌸 Mission muguet :** la place Sathonay est calme, propice à des conversations posées avec des locaux. Bon spot pour collecter 1-2 brins.
+
+**📸 Photo emblématique de l'étape :** Yoann en loutre, sandwich à la patte, devant la devanture fermée du Delicatessen avec l'enseigne visible. Légende suggérée pour le groupe WhatsApp : *« Elle est où la poulette ? Demain, Yoann. Demain. »*
 
 Enveloppe étape 6 :
 
-> *Continue de monter. Au sommet du quartier des canuts, un Gros bonhomme de pierre te regarde. Grimpe-le.*
+> *La Saône t'appelle. Direction le pont, là tu devras prouver que tu es vraiment une loutre.*
 
 ---
 
-## 🪨 Étape 6 — Le Gros Caillou (Croix-Rousse, 4e)
+## 🌊 Étape 6 — Quais de Saône (1er, niveau Passerelle Saint-Vincent)
 
-**Pourquoi ce lieu :** bloc erratique déposé par un glacier alpin, devenu emblème du quartier. Belvédère.
-
-**Énigme — "Le Cri de la Loutre"**
-
-Yoann grimpe sur le Gros Caillou et **pousse un cri de loutre** suffisamment fort pour qu'au moins **3 inconnus se retournent**. Sans utiliser ses mains.
-
-**Variante avec les 5 invités :** chacun fait un cri à son tour, en chœur avec Yoann. Compétition de ridicule. Vidéo.
-
-**Mini-défi calembour bonus :** pendant qu'il est sur le caillou, Yoann doit énoncer **5 jeux de mots avec "loutre"** (ou "marié", ou "Lyon") **en moins de 60 secondes**. Les Esprits applaudissent ou huent. Bonus muguet pour 5 réussis, double bonus pour 7+. C'est sa zone de confort, profite.
-
-**Action diabolique étape 6 :**
-- **Pacte** : *« Je compte les retournements pour toi, si tu pousses le cri en levant les bras et en faisant la danse de la victoire après chaque essai. »*
-- **Mensonge — Choix du Menteur** : *« 3 indices sur le Gros Caillou. Indice 1 : c'est une roche déposée par un glacier alpin. (vrai) — Indice 2 : il a été découvert au 19e siècle, lors du percement du tunnel de la Croix-Rousse. (vrai) — Indice 3 : il pèse environ 30 tonnes. (faux : le poids communément cité tourne autour de 670 tonnes / plusieurs centaines selon les sources, c'est massif). »* Défi compensatoire si mauvaise pioche : essayer de "soulever" le caillou avec un cri d'haltérophile.
-- **Tentation** : *« Et si tu donnais un nom officiel à ce caillou ? Le baptiser solennellement avec un discours plein de jeux de mots pourris. Bonus muguet si le nom est mémorable (genre ‘Robert le Roc' ou ‘Caillou Marius'). »*
-
-**🥓 Ration Diabolique #3 :** au sommet, l'Esprit du Pacte sort un **paquet de gratton lyonnais** (rillons croustillants) et en tend une poignée à Yoann. *« Vue panoramique, ration carnivore. Bon appétit, Loutre. »*
-
-**Pause éventuelle :** banc avec vue, 5 min, on partage les grattons avec les 5 invités.
-
-Enveloppe étape 7 :
-
-> *Redescends côté rivière dorée. La Saône t'appelle. Là, tu dois prouver que tu es vraiment une loutre.*
-
----
-
-## 🌊 Étape 7 — Quais de Saône (1er, niveau Passerelle Saint-Vincent)
-
-**Pourquoi ce lieu :** descente naturelle depuis Croix-Rousse. Vis-à-vis avec le Vieux Lyon sur l'autre rive.
+**Pourquoi ce lieu :** à 5-10 min à pied de la place Sathonay, en passant par les rues de la presqu'île nord. Vis-à-vis avec le Vieux Lyon sur l'autre rive — joli plan pour la suite du parcours.
 
 **Énigme — "Le Baptême de la Saône"** *(4e ingrédient de l'antidote = BRIN DE MENTHE FRAÎCHE — la plante)*
 
@@ -637,20 +645,20 @@ Yoann accomplit **2 défis sur 3** :
 
 Une fois 2 défis validés, un témoin sort un **brin de menthe fraîche** (préservé au frais dans le sac depuis le matin) et le remet à Yoann. *« Voici l'Herbe Sacrée des Esprits du Fleuve — cueillie ce matin sur la rive avant que le soleil ne se lève. Quatrième ingrédient de ton antidote. La menthe purifie, et toi tu en as bien besoin, mar-loutre. »*
 
-**Action diabolique étape 7 :**
+**Action diabolique étape 6 :**
 - **Pacte** : *« Je t'autorise à parler humain pour le défi 2 (l'Offrande), si tu chantes ‘Sous les ponts de Paris' en remplaçant ‘Paris' par ‘Lyon' au bord de l'eau d'abord. »*
 - **Mensonge — Choix du Menteur** : *« 3 indices sur la Saône. Indice 1 : la Saône se jette dans le Rhône à Lyon. (vrai) — Indice 2 : la Saône prend sa source dans les Vosges. (vrai) — Indice 3 : la Saône est plus longue que le Rhône. (faux : le Rhône fait ~813 km, la Saône ~480 km). »* Défi compensatoire si mauvaise pioche : faire 10 secondes de "danse du saumon" au bord de l'eau.
 - **Tentation** : *« Et si tu lançais un défi à un autre groupe au bord du quai — concours de cri de la loutre ? »*
 
 **[À PERSONNALISER]** : si Yoann a un rapport particulier à l'eau (sport nautique, peur des poissons, anecdote drôle), exploiter dans un défi sur-mesure.
 
-Enveloppe étape 8 :
+Enveloppe étape 7 :
 
 > *Traverse la passerelle. Plonge dans le labyrinthe médiéval des canuts. Trouve la sortie qui mène à l'horloge magique.*
 
 ---
 
-## 🌀 Étape 8 — Traboules du Vieux Lyon (5e)
+## 🌀 Étape 7 — Traboules du Vieux Lyon (5e)
 
 **Pourquoi ce lieu :** passages couverts privés ouverts au public la journée. Atmosphère médiévale.
 
@@ -662,7 +670,7 @@ Suggestion : la **Longue Traboule** (entrée 27 rue du Bœuf, sortie 54 rue Sain
 
 **Variante simple si traboule fermée :** chercher une cour Renaissance précise (cour de la Tour Rose) en suivant des indices écrits.
 
-**Action diabolique étape 8 :**
+**Action diabolique étape 7 :**
 - **Pacte** : *« Je te révèle l'emplacement d'un post-it, si tu chantes ‘Frère Jacques' (ou autre comptine) en marchant à reculons dans la traboule. »*
 - **Mensonge — Choix du Menteur** : *« 3 indices sur les traboules de Lyon. Indice 1 : ‘traboule' vient du latin ‘trans ambulare' (passer à travers). (vrai) — Indice 2 : les traboules ont servi à la Résistance pendant la Seconde Guerre mondiale. (vrai) — Indice 3 : il y a plus de 1000 traboules à Lyon. (faux : on en compte environ 400 répertoriées, surtout dans le Vieux Lyon et la Croix-Rousse). »* Défi compensatoire si mauvaise pioche : à la sortie de la traboule, dire bonjour à 3 personnes en imitant le canut lyonnais de l'époque (avec "Gone" et "Pardi" obligatoires).
 - **Tentation** : *« Et si tu te fais passer pour un guide touristique improvisé devant un groupe de touristes à la sortie ? Bonus muguet pour le bagout. »*
@@ -671,43 +679,69 @@ Suggestion : la **Longue Traboule** (entrée 27 rue du Bœuf, sortie 54 rue Sain
 
 **🥓 Ration Diabolique #4 :** à la sortie de la traboule, dans la rue Saint-Jean, l'Esprit du Pacte distribue à tout le groupe (Yoann en premier) **une part de brioche aux pralines roses** sortie du Sac. *« Du rose pour ta belle, mar-loutre. »*
 
-Enveloppe étape 9 :
+Enveloppe étape 8 :
 
-> *Au bout de la traboule, une église a une horloge magique : elle sonne, des automates s'animent. Va voir l'heure.*
+> *Au bout de la traboule, prends la rue Octavio Mey. Là-bas, sur le numéro 4, dort un temple éteint. C'est l'heure de la bière qui ne sonne plus depuis longtemps. Tes Esprits ont une dette envers ce lieu. Toi aussi.*
 
 ---
 
-## ⏰ Étape 9 — Cathédrale Saint-Jean, Horloge Astronomique (5e)
+## 🍺 Étape 8 — L'Ancien Beer O'clock, le Temple Éteint (5e)
 
-**Pourquoi ce lieu :** l'horloge astronomique de la cathédrale est l'une des plus anciennes d'Europe. Elle déclenche un spectacle d'automates aux heures précises (horaires affichés sur place — à vérifier le jour J). Gratuit.
+**Pourquoi ce lieu :** le **Beer O'clock** (4 rue Octavio Mey, 5e — Vieux Lyon, Saint-Paul) était **le bar préféré de Yoann**, fermé depuis. C'est un lieu chargé de souvenirs personnels pour le groupe. À 5 min à pied de la sortie de la traboule (étape 7), sur le chemin direct vers la Montée Saint-Barthélemy. Aucun détour.
 
-**Énigme — "Le Temps de la Loutre"**
+L'étape garde le **thème du Temps** (initialement porté par l'horloge astronomique) mais le réinterprète : ici c'est le temps qui passe, les bars qui ferment, l'amitié qui reste. Et le **thème de la bière**, évidemment.
 
-Idéalement, caler le passage à l'heure d'un déclenchement. Si timing OK : Yoann reste **immobile comme une statue** pendant la durée du spectacle (2-3 min). Les autres essaient de le faire rire **sans le toucher** et sans bruit (cathédrale = silence). S'il bouge, gage : à la sortie, faire 3 jeux de mots pourris avec "horloge" / "heure" / "temps" devant le groupe.
+**[À PERSONNALISER côté témoins]** : préparez de votre côté **chacun 1 anecdote vraie ET 1 anecdote fausse mais crédible** liée à un bar (Beer O'clock ou autre). Pas obligatoire de mémoriser à l'avance, mais ça permet d'avoir des billes si vous séchez sur le moment. Les invités improvisent eux sur place — ils sont prévenus la veille pour avoir le temps d'y penser.
 
-**Énigme alternative si pas d'horloge en marche :** trouver un détail précis dans la cathédrale (blason, date gravée, vitrail) à partir d'un indice cryptique.
+**Énigme — "Le Souvenir du Temple Éteint"** *(pas d'ingrédient — épreuve mémoire collective + bière)*
 
-**Action diabolique étape 9 :**
-- **Pacte** : *« Je te dis l'horaire exact du prochain déclenchement, si tu fais un selfie discret avec la statue de la Vierge en faisant un clin d'œil (mais respectueusement, hein). »*
-- **Mensonge — Choix du Menteur** : *« 3 indices sur l'horloge astronomique. Indice 1 : c'est l'une des plus vieilles horloges astronomiques d'Europe. (vrai) — Indice 2 : elle indique les fêtes religieuses jusqu'à l'an 2019. (faux ou imprécis selon les sources — la plupart des sources disent qu'elle est calibrée pour fonctionner jusqu'à un horizon d'environ 100 ans, donc le détail "2019" est inventé). — Indice 3 : elle se déclenche plusieurs fois par jour. (vrai). »* Défi compensatoire si mauvaise pioche : à la sortie, demander à un passant l'heure en mimant une horloge avec ses bras.
-- **Tentation** : *« Et si à la sortie tu te déclarais ‘Loutre du Temps' et te mettais à donner l'heure en latin approximatif aux passants ? »*
+Yoann et le groupe accomplissent **les 3 Stations du Temple Éteint** :
 
-**Note tonale :** dans une cathédrale, on baisse d'un ton et on respecte le lieu. Pas de cri, pas de grognement bruyant, pas de moquerie envers le sacré, pas de fidèle dérangé. Esprits diaboliques en mode chuchotant — encore plus drôle.
+### 1. La Station du Souvenir (jeu collectif vrai/faux)
+Devant la devanture fermée, **chaque personne du groupe à tour de rôle** (les 9 : Yoann + 3 Esprits + 6 invités) raconte **une anecdote sur un bar** — vraie ou fausse, au choix de chacun. Ça peut concerner le Beer O'clock spécifiquement, n'importe quel autre bar, ou un bar imaginaire.
 
-Enveloppe étape 10 :
+Après chaque anecdote, **le reste du groupe vote** : *« Vrai ou Faux ? »* à main levée. Le narrateur révèle ensuite la vérité.
+
+- **Si la majorité du groupe a deviné juste** → 1 brin de muguet bonus pour le narrateur (qui le donnera à Yoann à la fin pour son bouquet)
+- **Si la majorité s'est plantée** → 1 brin de muguet bonus pour le narrateur, qui a réussi à embrouiller le groupe (les bons menteurs méritent récompense aussi)
+- **Si parfait égalité** → on rejoue avec une mini-anecdote courte
+
+Chaque personne ne raconte qu'**UNE seule anecdote** (sinon ça s'éternise). Avec 9 personnes, ça prend 10-12 min, parfait timing. **Yoann commence ou termine** (à toi de voir ce qui marche le mieux narrativement) — je suggère qu'il **commence** : ça pose le ton, ça l'inclut, et ça donne le rythme.
+
+**Conseil narratif :** une bonne anecdote tient en 30-60 secondes. Format : *« Une fois, dans tel bar… »* + 1-2 détails marquants + chute. Trop long = ça traîne, trop court = pas assez de matière à juger.
+
+### 2. La Station du Goût (gorgée silencieuse)
+Un Esprit sort de la glacière une **canette de la bière préférée que Yoann commandait au Beer O'clock**. **[À PERSONNALISER]** : il faut savoir laquelle c'était — IPA ? Stout ? Triple belge ? Achète-en 2-3 canettes la veille selon ce que tu te rappelles. Yoann la boit **debout devant la devanture éteinte, en silence pendant 30 secondes**, en pensant à toutes les soirées qu'il a passées là. Moment solennel — même les Esprits se taisent. Photo iconique : la loutre, la canette, la devanture éteinte.
+
+### 3. La Station du Temps Suspendu
+Yoann doit faire un mini-discours de **1 minute** sur le thème : *« Ce que ce bar m'a appris pour mon mariage. »* Improvisé, à voix haute, devant la devanture fermée. Filmé. Format libre — émotion, humour, jeux de mots, ce qu'il veut. C'est l'occasion d'une vraie séquence forte qui sera projetée au mariage.
+
+### Action diabolique étape 8 :
+
+- **Pacte** : *« Je te dispense de ton anecdote dans la Station du Souvenir, si tu acceptes que ton mini-discours de la Station du Temps soit allongé à 2 minutes (autrement dit : tu choisis entre la facilité collective ou prendre plus de temps perso). »*
+- **Mensonge — Choix du Menteur** : *« 3 indices autour de la bière. Indice 1 : la bière est l'une des plus anciennes boissons fermentées au monde, attestée dès la Mésopotamie (~4000 av. J.-C.). (vrai) — Indice 2 : les bières IPA (India Pale Ale) ont été inventées au 18e siècle pour résister au voyage maritime vers les Indes britanniques. (vrai) — Indice 3 : la bière "trappiste" peut être brassée par n'importe quelle abbaye qui en demande l'appellation. (faux : le label "Authentic Trappist Product" est strictement réservé aux bières brassées dans une abbaye trappiste, sous contrôle des moines, à but non lucratif — il n'y a qu'une douzaine d'abbayes au monde qui ont ce droit). »* Défi compensatoire si mauvaise pioche : Yoann doit à voix haute citer **3 styles de bière différents** + leur pays d'origine probable, en moins de 30 secondes.
+- **Tentation** : *« Et si tu déclarais cette devanture ‘Site Sacré du Mustélidé Buveur' avec une plaque imaginaire ? Bonus muguet pour la solennité du discours d'inauguration (60 sec max). »*
+
+**🍺 Note tonale :** c'est une étape **émotionnelle plus que rigolote**. Les jeux de mots restent permis bien sûr, mais l'idée est qu'il y ait un moment de respiration où le groupe partage une vraie nostalgie sympa avant la montée finale. La loutre devant le bar fermé, c'est mélancolique-drôle, ça marquera Yoann beaucoup plus que n'importe quel défi physique.
+
+**Avantage du jeu collectif vrai/faux :** tout le monde participe, ça crée du lien entre les invités et les témoins (qui se découvrent à travers leurs anecdotes), et Yoann récolte plein d'histoires sur ses potes qu'il n'avait peut-être jamais entendues. C'est aussi un brillant moyen pour les invités (qui ont pioché un rôle au hasard à 14h) de **rester dans leur personnage tout en racontant une anecdote vraie** — on peut imaginer Konan le Barbare racontant *« Konan une fois était dans un bar… »* ou Méloric le Mage qui ouvre par *« Cela me rappelle un sortilège que j'ai jeté dans une taverne… »*. C'est un excellent moment de jeu de rôle.
+
+**Si vous voulez aller plus loin** : posez une **petite plaque-souvenir** improvisée (du carton, du scotch, à enlever en partant) devant la porte avec un mot type *« 1er mai 2026 — La meute est passée saluer. Yoann, Brice, [toi], Jonathan + 6. »* Photo, puis on retire pour ne rien laisser.
+
+Enveloppe étape 9 :
 
 > *Dernière étape, mustélidé. Pour briser totalement la malédiction, il te faut : (1) le brin de muguet sacré, et (2) atteindre le sommet de la colline qui prie. Là-haut, l'antidote final t'attend, préparé par les esprits sacrés. Monte.*
 
 ---
 
-## ⛰️ Étape 10 — Le Calvaire de la Loutre + Mâchon Royal de Fourvière (5e)
+## ⛰️ Étape 9 — Le Calvaire de la Loutre + Mâchon Royal de Fourvière (5e)
 
-**Pourquoi ce lieu :** finale grandiose. La basilique de Fourvière domine Lyon. Esplanade gratuite, vue panoramique sur la ville. **Le 1er mai, pas de funiculaire** — donc la montée se fait à pied par la **Montée Saint-Barthélemy** (chemin pavé en pente régulière, ~15 min depuis la Cathédrale Saint-Jean ; alternative plus raide : Montée des Chazeaux, escaliers, ~10 min mais costaud).
+**Pourquoi ce lieu :** finale grandiose. La basilique de Fourvière domine Lyon. Esplanade gratuite, vue panoramique sur la ville. **Le 1er mai, pas de funiculaire** — donc la montée se fait à pied par la **Montée Saint-Barthélemy** (chemin pavé en pente régulière, ~15 min depuis la rue Octavio Mey / quartier Saint-Paul ; alternative plus raide : Montée des Chazeaux, escaliers, ~10 min mais costaud).
 
 ### Mission finale en 4 temps :
 
 **A — La collecte du muguet (en route vers Fourvière)**
-Yoann doit avoir collecté ses **5 brins de muguet** auprès d'inconnus. Si pas atteint, c'est le moment ou jamais — entre la cathédrale et le pied de la montée, dernière chance. Si après tout il manque encore des brins → un témoin a un **plan B** : 5 brins planqués dans le sac, "miraculeusement trouvés" en haut.
+Yoann doit avoir collecté ses **5 brins de muguet** auprès d'inconnus. Si pas atteint, c'est le moment ou jamais — entre l'ancien Beer O'clock et le pied de la montée, dernière chance. Si après tout il manque encore des brins → un témoin a un **plan B** : 5 brins planqués dans le sac, "miraculeusement trouvés" en haut.
 
 **B — Le Calvaire de la Loutre (la montée à pied)**
 Plus de funiculaire le 1er mai. La montée devient **la dernière épreuve initiatique** de la quête. Mise en scène à l'attaque de la pente :
@@ -763,7 +797,7 @@ Ouverture du Mâchon Royal pour les 9. Vin servi. Coucher de soleil sur Lyon. Ph
 
 **Météo mai :** chaud le jour, frais en soirée à Fourvière. Veste légère pour Yoann sous le costume si frileux. Crème solaire au cas où — la loutre transpire au soleil.
 
-**Voiture initiale + tout à pied ensuite :** rappel — le réseau TCL est totalement à l'arrêt le 1er mai. Pas de métro, pas de tram, pas de bus, pas de funiculaire. Le trajet chez Yoann → Bellecour se fait **en voiture** (30 min, conducteur sobre OU VTC réservé la veille). À partir de 14h, **tout le reste à pied**. **Chaussures confortables OBLIGATOIRES pour les 9 personnes**, prévenir les invités. Yoann en costume sur 5-6 km cumulé : prévoir des **arrêts hydratation toutes les 2 étapes**.
+**Voiture initiale + tout à pied ensuite :** rappel — le réseau TCL est totalement à l'arrêt le 1er mai. Pas de métro, pas de tram, pas de bus, pas de funiculaire. Le trajet chez Yoann → Bellecour se fait **en voiture** (30 min, conducteur sobre OU VTC réservé la veille). À partir de 14h, **tout le reste à pied**. **Chaussures confortables OBLIGATOIRES pour les 9 personnes**, prévenir les invités. Yoann en costume sur 4-5 km cumulé : prévoir des **arrêts hydratation toutes les 2 étapes**.
 
 **Backup transport :** taxis et VTC (Uber, Bolt, Heetch) circulent normalement. Garder ça en réserve pour urgence (blessure, fatigue critique). Pas pour confort.
 
@@ -776,9 +810,11 @@ Ouverture du Mâchon Royal pour les 9. Vin servi. Coucher de soleil sur Lyon. Ph
 >
 > *Le marié arrive à 14h pile aussi avec ses témoins. Vous allez piocher au hasard un rôle de personnage façon Naheulbeuk (Barbare, Elfe, Nain, Mage, Ranger, Voleur). Vous aurez 10 min pour lire votre fiche, vous imprégner du perso, et enfiler votre accessoire. Puis chacun se présente solennellement et la quête commence pour de vrai.*
 >
-> *Aucune préparation perso à faire — vous découvrez votre rôle sur place. Juste : soyez prêts à JOUER votre personnage à fond pendant 4h. Plus c'est ridicule, mieux c'est. Pas de téléphone visible.*
+> *Aucune préparation perso à faire pour le rôle — vous découvrez votre personnage sur place. Juste : soyez prêts à JOUER votre personnage à fond pendant 4h. Plus c'est ridicule, mieux c'est. Pas de téléphone visible.*
 >
-> *⚠️ Le 1er mai à Lyon il n'y a aucun transport en commun, on va marcher 5-6 km. Chaussures confortables, gourde d'eau, veste légère pour le soir. Pas de talons, pas de neuves. Hydratez-vous bien ce soir, n'arrivez pas la gueule de bois. »*
+> ***⚠️ UNE seule chose à préparer mentalement** : à un moment dans le parcours, on s'arrêtera devant un ancien bar et chacun racontera **une anecdote sur un bar** — vraie ou fausse, à vous de choisir. Le reste du groupe devine si c'est vrai ou faux. Donc venez avec **2 anecdotes en tête** (1 vraie, 1 fausse), vous choisirez sur le moment laquelle raconter. Format court, 30-60 secondes. Aucun autre indice — vous découvrirez le contexte sur place.*
+>
+> *⚠️ Le 1er mai à Lyon il n'y a aucun transport en commun, on va marcher 4-5 km. Chaussures confortables, gourde d'eau, veste légère pour le soir. Pas de talons, pas de neuves. Hydratez-vous bien ce soir, n'arrivez pas la gueule de bois. »*
 
 **Sécurité :** un esprit sobre désigné en permanence. Yoann monte sur des socles, marche sur du pavé glissant. Loutre intacte = mariage réussi.
 
